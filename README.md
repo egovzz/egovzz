@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @egovzz
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Imba and thinking about learning Elixir (not yet decided)
-- 💞️ I’m working at Lernit
+- 🌱 I’m currently learning Imba and Go
+- 💞️ I’m working at Stori
 - 📫 How to reach me - Twitter @egovzz
 
 <!---
